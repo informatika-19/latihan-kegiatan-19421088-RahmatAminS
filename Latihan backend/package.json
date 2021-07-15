@@ -1,0 +1,33 @@
+{
+  "name": "latihan-backend",
+  "version": "1.0.0",
+  "description": "Latihan Membuat Server",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Latihan",
+    "Sever"
+  ],
+  "author": "kadekhinda",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.11",
+    "nodemon": "^2.0.7",
+    "xpath": "0.0.32"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/informatika-19/latihan-backend-19421058-AfandiAkbar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/informatika-19/latihan-backend-19421058-AfandiAkbar/issues"
+  },
+  "homepage": "https://github.com/informatika-19/latihan-backend-19421058-AfandiAkbar#readme"
+}
